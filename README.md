@@ -1,4 +1,4 @@
-# FUEL_CAMERA_VEHICLE-DISPATCHER-
+<img width="920" alt="image (1)" src="https://github.com/user-attachments/assets/9e6f42a6-606c-4bc7-b2be-9457b9fef17e"># FUEL_CAMERA_VEHICLE-DISPATCHER-
 COMPUTER NETWORKS  -  PROJECT USING NETWORK PROGRAMMING 
 Fuel Filling Station
 
@@ -24,3 +24,6 @@ Whenever any fuel value reaches zero litres, the dispenser - D informs the same 
 
 It is clear that D, B1, B2 and SC belong to the same filling station and are unrelated processes,
 and vehicle V is entirely from a different location.
+
+<img width="920" alt="image (1)" src="https://github.com/user-attachments/assets/1334e300-ebd6-4095-b145-87ba6d08b124">
+
