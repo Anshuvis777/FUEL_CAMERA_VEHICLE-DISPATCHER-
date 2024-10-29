@@ -1,4 +1,4 @@
-<img width="920" alt="image (1)" src="https://github.com/user-attachments/assets/9e6f42a6-606c-4bc7-b2be-9457b9fef17e"># FUEL_CAMERA_VEHICLE-DISPATCHER-
+
 COMPUTER NETWORKS  -  PROJECT USING NETWORK PROGRAMMING 
 Fuel Filling Station
 
